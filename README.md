@@ -1,5 +1,4 @@
-# braintree-plugin
-=== Braintree Payment Plugin ===
+# Braintree Payment Plugin
 
 Version: 1.3.9
 Stable tag: 1.3.9
