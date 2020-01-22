@@ -1,0 +1,297 @@
+.remodal {
+  background: #fff none repeat scroll 0 0;
+  box-sizing: border-box;
+  color: #2b2e38;
+  margin-bottom: 10px;
+  padding: 35px;
+  transform: translate3d(0px, 0px, 0px);
+  width: 100%;
+}
+.remodal {
+  max-width: 700px;
+}
+.wz_show_pay_form {
+  width: 100%;
+  float: left;
+  margin-top: 50px;
+
+}
+.one_half {
+  width: 48%;
+}
+.on_2 {
+  float: left;
+  width: 100%;
+  margin: 15px 0px;
+  margin-bottom: ;
+}
+.one_half input , .on_2 input {
+  background-color: #fff;
+  border: 1px solid #bbb;
+  color: #4e4e4e;
+  width:100%;
+  
+  padding: 10px;
+}
+.modal-title{
+	
+	margin-top:30px;
+}
+.wz_delivery_address 
+{
+	float:left;
+	width:100%;
+	text-align:center;
+}
+.wz_delivery_address input {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  color: #4e4e4e;
+  padding: 2px;
+  width: 100%;
+  padding-left:15px;
+  height: 40px;
+  margin-bottom: 10px;
+}
+button.paypal {
+  background: #009cde none repeat scroll 0 0;
+  border: medium none;
+  border-radius: 4px;
+  color: #f9f9f9;
+  float: left;
+  font-size: 16px;
+  height: 40px;
+  line-height: 40px;
+  margin-right: 10px;
+  padding: 0 20px;
+  text-align: center;
+}
+.form-container {
+  padding-top: 1px;
+  float: left;
+  width: 100%;
+  margin-top: 35px;
+}
+.form-container .row {
+  max-width: 100%!important;
+  margin: 0px auto;
+}
+.card-label {
+   border-bottom: 1px solid #dee2e5;
+  border-top: 1px solid #dee2e5;
+  display: block;
+  margin-top: -6px;
+  overflow: hidden;
+  padding: 8px 0;
+  position: relative;
+  transform: translate3d(0px, 0px, 0px);
+  transition: background-color 131ms linear 0s;
+  z-index: 1;
+}
+
+.new_btn {
+  float: left;
+  width: 100%;
+  text-align: center;
+  margin-top: 25px;
+}
+.new_btn ul
+{
+	float:left;
+	width:100%;
+	margin-top:20px;
+}
+.new_btn ul li
+{
+	display:inline-block;
+}
+.new_btn small {
+  float: left;
+  text-align: center;
+  width: 100%;
+  color: #000;
+}
+.modal-footer , .modal-header
+{
+	border:none;
+}
+.modal-footer .btn-default
+{
+	visibility:hidden;
+}
+.new_btn .btn{
+  background-color: #f7b977;
+  border: medium none;
+  box-shadow: none;
+  color: #fff;
+  cursor: pointer;
+  font-size: inherit;
+  padding: 1.6rem 2.4rem;
+  width: auto;
+}
+.field-name {
+  display: none;
+}
+.column.half {
+  width: 100%;
+}
+.card-field {
+  background-color: transparent;
+  background-image: none;
+  border: medium none;
+  box-sizing: border-box;
+  display: block;
+  font-size: 16px;
+  font-weight: 200;
+  height: 30px;
+  margin: 16px 0 0;
+  outline: 0 none;
+  padding: 0 14px;
+  width: 100%;
+}
+.payment-method-icon {
+  background-repeat: no-repeat;
+  border: 1px solid transparent;
+  border-radius: 1px;
+  height: 27px;
+  left: auto;
+  margin-top: -14px;
+  position: absolute;
+  right: 14px;
+  top: 50%;
+  width: 41px;
+}
+.card-label .invalid-bottom-bar {
+  background-color: #d0021b;
+  bottom: 0;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 20, 0, 1);
+  width: 100%;
+}
+.et_pb_button {
+  background: #5b5b5b none repeat scroll 0 0;
+  border: 2px solid #ccc;
+  border-radius: 3px;
+  float: left;
+  font-size: 20px;
+  font-weight: 500;
+  height: 50px;
+  margin-bottom: 10px;
+  padding: 0.3em 1em;
+  position: relative;
+  text-decoration: none;
+  width: 15%;
+  color:#ccc;
+}
+.remodal-is-initialized {
+  display: inline-block;
+}
+.wz_user_name{
+width: 70%;
+margin-top: 50px;
+}
+.wh_new_form {
+  border: 1px solid #eee;
+  display: inline-block;
+  float: left!important;
+  width: 70%;
+  margin-top: 10px;
+}
+.modal-body {
+  padding: 30px;
+  position: relative;
+}
+.wh_inputs {
+  float: left;
+  width: 100%;
+
+  
+ 
+}
+
+.wh_head .count {
+  border-bottom: 1px solid #eee ;
+
+  border-right:1px solid #eee;
+  padding-top:10px;
+}
+.border1
+{
+	  border-right:1px solid #eee;
+	  padding-top:10px;
+	  padding-bottom:10px;
+}
+
+	
+	.wz_register {
+  float: left;
+  margin-bottom: 10px;
+  margin-left: 16px;
+  margin-right: 10px;
+  margin-top: 20px;
+  width: 100%;
+}
+.wz_register input[type="radio"]{
+	
+	line-height: normal;
+	margin: 0px 10px 0px 40px;
+}
+.wz_billing{
+	
+	float: left;
+  margin-bottom: 10px;
+  margin-left: 17px;
+  margin-right: 10px;
+  margin-top: 20px;
+  width: 100%;
+}
+.wz_billing input[type="radio"]{
+	
+	line-height: normal;
+	margin: 0px 10px 0px 40px;
+}
+.wz_first_lable {
+  float: left;
+  width: 25%;
+}
+.wz_redirect_url {
+  margin-left: 25px;
+}
+.custom_url {
+  width: 100%;
+}
+.button_label{
+	width: 100%;
+}
+.wz_button_label {
+  margin-left: 25px;
+}
+.wh_new_form .btn_submit {
+  margin-left: 15px;
+  margin-top: 15px;
+  margin-bottom:10px;
+}
+.wz_first_name {
+  float: left;
+  width: 31% !important;
+}
+.msg {
+  float: left;
+  margin-left: 20px;
+  width: 95%;
+}
+.wz_first_name_input {
+  float: left;
+  width: 227%;
+}
+.manage-column {
+  width: 100% !important;
+}
+.lit_cancel.cancelSub {
+  margin: 0 10px 0 0;
+}
+.et_pb_column{
+	z-index:inherit !important;
+}
