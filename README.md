@@ -3,13 +3,13 @@
 Version: 1.3.9
 Stable tag: 1.3.9
 
-Plugin Name: braintree Payment plugin
+Plugin Name: Braintree Payment plugin
 
 Description: This plugin makes a payment in braintree payment method.
 
 == Installation ==
 
-= braintree payment plugin is very easy to install (instructions) =
+= Braintree payment plugin is very easy to install (instructions) =
 1. Upload the `/braintree-payment-plugin` folder to your `/wp-content/plugins/` directory.
 2. Activate the plugin through the `Plugins` menu in WordPress.
 3. Navigate to the `braintree payments > settings` panel for configuration details.
